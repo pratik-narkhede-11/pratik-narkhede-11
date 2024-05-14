@@ -19,7 +19,8 @@
 </div>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :man_technologist: About Me :
-I am a Java Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<br>
+I am a Java Full Stack Developer from India.
 <br>
 - :telescope: I’m working as a Software Engineer and contributing as a Java Backend Developer for building industry applications.
 <br>
