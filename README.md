@@ -17,8 +17,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### :man_technologist: About Me :
+------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>:man_technologist: About Me :</h1>
 <br>
 I am a Java Full Stack Developer from India.
 <br>
@@ -28,8 +28,8 @@ I am a Java Full Stack Developer from India.
 <br>
 - :zap: In my free time, I solve problems on GeeksforGeeks and Experiment different facinating activities.
 <br>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### :hammer_and_wrench: Languages and Tools :
+------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>:hammer_and_wrench: Languages and Tools :</h1>
 <div style="background-color: FFFFFF;" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
