@@ -30,12 +30,11 @@ I am a Java Full Stack Developer from India.
 <br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 <h1>:hammer_and_wrench: Languages and Tools :</h1>
-<div style="background-color: FFFFFF;" align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="hibernate"  alt="hibernate" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-line-wordmark.svg" title="junit"  alt="junit" width="80" height="80"/>&nbsp;
-   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp"  alt="cpp" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c"  alt="c" width="80" height="80"/>&nbsp;
@@ -45,7 +44,6 @@ I am a Java Full Stack Developer from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="eclipse"  alt="eclipse" width="80" height="80"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="maven"  alt="maven" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman"  alt="postman" width="80" height="80"/>&nbsp;
