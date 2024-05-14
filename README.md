@@ -18,15 +18,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-### :man_technologist: About Me :
+<center>### :man_technologist: About Me :</center>
 I am a Java Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing as a Java Backend Developer for building industry applications.
 - :seedling: Exploring and Deep Diving into the Sea of Java.
 - :zap: In my free time, I solve problems on GeeksforGeeks and Experiment different facinating activities.
 <br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<center>### :hammer_and_wrench: Languages and Tools :</center>
+<div style="background-color: white;" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="hibernate"  alt="hibernate" width="80" height="80"/>&nbsp;
